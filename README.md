@@ -12,3 +12,14 @@ SD  - 32
 RESULTS:
 When you wistle the wave form on serial plotter should be something like this
 ![Screenshot 2022-02-10 at 11 41 52 AM](https://user-images.githubusercontent.com/53706681/153348551-5e85db9c-b4cc-4dec-ae37-62e0adb22581.png)
+
+
+PlayAAC(Test for MAX98357a and ESP32 with speaker)
+Connections
+LRC - I026
+BLCK - I027
+DIN - I025
+GAIN - GND
+SD - -
+GND - GND 
+VDD - 5V
