@@ -26,6 +26,7 @@ VDD - 5V
 
 
 Solar drip irrigation system with voice automation (Alexa / google)
+
 Connections
 ![Screenshot 2023-03-13 at 8 54 21 PM](https://user-images.githubusercontent.com/53706681/225689008-d8a74148-5b1f-484a-8671-31ba56f76bbb.png)
 ![Screenshot 2023-03-15 at 2 37 25 PM](https://user-images.githubusercontent.com/53706681/225689057-a1f67049-6887-4abd-ac93-1f0efde64704.png)
